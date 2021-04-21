@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "curso-angular-joao-carvalho"
+  },
+  "targets": {
+    "curso-angular-joao-carvalho": {
+      "hosting": {
+        "requests-http": [
+          "curso-angular-joao-carvalho"
+        ]
+      }
+    }
+  }
+}
